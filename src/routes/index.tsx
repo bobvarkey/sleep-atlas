@@ -22,7 +22,7 @@ function Index() {
   const [idx, setIdx] = useState(today.index);
   const [picked, setPicked] = useState<number | null>(null);
   const [score, setScore] = useState<Record<string, boolean>>({});
-  const c = cases[idx];
+  const c = cases[idx]!;
   useEffect(() => { setScore(JSON.parse(localStorage.getItem("sa-score") || "{}")); }, []);
   useEffect(() => setPicked(null), [idx]);
   const choose = (i: number) => {

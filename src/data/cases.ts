@@ -68,5 +68,5 @@ export const cases: Case[] = [
 ];
 export function caseForDate(d = new Date()) {
   const day = Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5);
-  return { c: cases[day % cases.length], index: day % cases.length };
+  return { c: cases[day % cases.length]!, index: day % cases.length };
 }
