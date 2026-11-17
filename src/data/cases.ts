@@ -1,3 +1,4 @@
+import { moreCases } from "./cases-more";
 export type Wave = "alpha" | "n1" | "n2" | "n3" | "rem" | "osa" | "csa" | "plm" | "seizure";
 export type Case = {
   id: string; title: string; kind: "Vignette" | "EEG";
@@ -66,6 +67,7 @@ export const cases: Case[] = [
     question:"From which stage does this usually arise?", options:["N3, first third of night","REM, last third","N1 at sleep onset","Wake"], answer:0,
     explanation:"Disorders of arousal (sleepwalking, confusional arousals, night terrors) arise from N3, early in the night." },
 ];
+cases.push(...moreCases);
 export function caseForDate(d = new Date()) {
   const day = Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 864e5);
   return { c: cases[day % cases.length]!, index: day % cases.length };
