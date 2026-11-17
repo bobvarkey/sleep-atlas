@@ -1,0 +1,67 @@
+# Oxford Case Histories in Sleep Medicine
+
+- **Authors:** Himender Makker,Matthew Walker,Hugh Selsick,Bhik Kotecha,Ama Johal
+- **PDF:** `Sleep Medicine (Himender Makker, Matthew Walker etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+- **PDF pages:** 397
+- **Extracted chapters:** 57
+- **Images:** 42 unique
+
+## Chapters
+
+- [Front Matter](chapters/00-front-matter.md) — PDF p. 1–15, 1537 words, 1 images
+- [Case 1 Snoring and witnessed apnoea in a 70-year-old thin man](chapters/01-case-1-snoring-and-witnessed-apnoea-in-a-70-year-old-th.md) — PDF p. 16–25, 2503 words, 2 images
+- [Case 2 An obese post-menopausal woman snored like a tank](chapters/02-case-2-an-obese-post-menopausal-woman-snored-like-a-tan.md) — PDF p. 26–31, 1173 words, 0 images
+- [Case 3 Severe OSA in an overweight Chinese man—craniofacial features](chapters/03-case-3-severe-osa-in-an-overweight-chinese-mancraniofac.md) — PDF p. 32–37, 1264 words, 1 images
+- [Case 4 Unable to throw a cricket ball and could not breathe at night](chapters/04-case-4-unable-to-throw-a-cricket-ball-and-could-not-bre.md) — PDF p. 38–44, 1593 words, 0 images
+- [Case 5 A sleepy bus driver](chapters/05-case-5-a-sleepy-bus-driver.md) — PDF p. 46–52, 1500 words, 2 images
+- [Case 6 Rapid onset daytime sleep presenting as transient loss of consciousness](chapters/06-case-6-rapid-onset-daytime-sleep-presenting-as-transien.md) — PDF p. 54–59, 1225 words, 2 images
+- [Case 7 Unexplained breathlessness and pulmonary arterial hypertension in an obese man](chapters/07-case-7-unexplained-breathlessness-and-pulmonary-arteria.md) — PDF p. 60–64, 1091 words, 0 images
+- [Case 8 Post-operative apnoeas and hypoxia due to undiagnosed OSA](chapters/08-case-8-post-operative-apnoeas-and-hypoxia-due-to-undiag.md) — PDF p. 66–71, 1250 words, 0 images
+- [Case 9 Polycythemia got better with CPAP](chapters/09-case-9-polycythemia-got-better-with-cpap.md) — PDF p. 72–78, 1487 words, 2 images
+- [Case 10 Hyperphagia and sleep disorder in Prader-Willi Syndrome](chapters/10-case-10-hyperphagia-and-sleep-disorder-in-prader-willi.md) — PDF p. 80–84, 899 words, 1 images
+- [Case 11 Shot in the head—acquired hypothalamic syndrome](chapters/11-case-11-shot-in-the-headacquired-hypothalamic-syndrome.md) — PDF p. 86–93, 1445 words, 0 images
+- [Case 12 Collapsed in a café: acute respiratory failure](chapters/12-case-12-collapsed-in-a-cafe-acute-respiratory-failure.md) — PDF p. 94–100, 1626 words, 2 images
+- [Case 13 Overlap syndrome—COPD and OSA](chapters/13-case-13-overlap-syndromecopd-and-osa.md) — PDF p. 102–107, 1155 words, 0 images
+- [Case 14 Neuropsychological impairment in a psychoanalyst with post-polio syndrome](chapters/14-case-14-neuropsychological-impairment-in-a-psychoanalys.md) — PDF p. 108–113, 1261 words, 1 images
+- [Case 15 Nocturnal choking in a patient with a goitre and retrosternal extension](chapters/15-case-15-nocturnal-choking-in-a-patient-with-a-goitre-an.md) — PDF p. 114–119, 1140 words, 2 images
+- [Case 16 OSA persists despite removal of a pituitary tumour causing acromegaly](chapters/16-case-16-osa-persists-despite-removal-of-a-pituitary-tum.md) — PDF p. 120–123, 733 words, 1 images
+- [Case 17 CPAP transformed my life](chapters/17-case-17-cpap-transformed-my-life.md) — PDF p. 124–129, 1198 words, 0 images
+- [Case 18 Persistent daytime sleepiness despite CPAP](chapters/18-case-18-persistent-daytime-sleepiness-despite-cpap.md) — PDF p. 130–136, 1621 words, 0 images
+- [Case 19 CPAP intolerance and non-compliance—treatment with MAS](chapters/19-case-19-cpap-intolerance-and-non-compliancetreatment-wi.md) — PDF p. 138–145, 1735 words, 0 images
+- [Case 20 Will not use CPAP—ends up with tracheostomy](chapters/20-case-20-will-not-use-cpapends-up-with-tracheostomy.md) — PDF p. 146–151, 1012 words, 2 images
+- [Case 21 Bariatric surgery cures sleep apnoea](chapters/21-case-21-bariatric-surgery-cures-sleep-apnoea.md) — PDF p. 152–157, 1129 words, 0 images
+- [Case 22 Sleep disturbance and daytime sleepiness persists in a snorer despite CPAP—Periodic Limb Movement Syndrome](chapters/22-case-22-sleep-disturbance-and-daytime-sleepiness-persis.md) — PDF p. 158–162, 1151 words, 3 images
+- [Case 23 Worrying pauses in breath without choking and snoring— Central Sleep Apnoea](chapters/23-case-23-worrying-pauses-in-breath-without-choking-and-s.md) — PDF p. 164–169, 1422 words, 1 images
+- [Case 24 Irresistible daytime sleepiness in a young obese woman](chapters/24-case-24-irresistible-daytime-sleepiness-in-a-young-obes.md) — PDF p. 170–178, 1376 words, 0 images
+- [Case 25 Contribution of facial skeletal pattern to sleep apnoea](chapters/25-case-25-contribution-of-facial-skeletal-pattern-to-slee.md) — PDF p. 180–186, 1327 words, 4 images
+- [Case 26 MAS therapy for severe OSAHS](chapters/26-case-26-mas-therapy-for-severe-osahs.md) — PDF p. 188–191, 923 words, 1 images
+- [Case 27 Effectiveness, compliance and side effects of MAS therapy](chapters/27-case-27-effectiveness-compliance-and-side-effects-of-ma.md) — PDF p. 192–196, 1072 words, 2 images
+- [Case 28 Allergic rhinitis](chapters/28-case-28-allergic-rhinitis.md) — PDF p. 198–203, 1625 words, 2 images
+- [Case 29 Nasal polyposis](chapters/29-case-29-nasal-polyposis.md) — PDF p. 204–207, 773 words, 2 images
+- [Case 30 Septoplasty](chapters/30-case-30-septoplasty.md) — PDF p. 208–213, 971 words, 1 images
+- [Case 31 Upper airway resistance syndrome](chapters/31-case-31-upper-airway-resistance-syndrome.md) — PDF p. 214–216, 666 words, 0 images
+- [Case 32 Laser Assisted Uvulopalatoplasty (LAUP)/tonsillectomy](chapters/32-case-32-laser-assisted-uvulopalatoplasty-laup-tonsillec.md) — PDF p. 218–223, 1039 words, 2 images
+- [Case 33 Epiglottic trapdoor](chapters/33-case-33-epiglottic-trapdoor.md) — PDF p. 224–226, 654 words, 0 images
+- [Case 34 Tracheostomy](chapters/34-case-34-tracheostomy.md) — PDF p. 228–234, 1021 words, 2 images
+- [Case 35 Sleep groaning](chapters/35-case-35-sleep-groaning.md) — PDF p. 236–238, 686 words, 1 images
+- [Case 36 Nocturnal punch and fight](chapters/36-case-36-nocturnal-punch-and-fight.md) — PDF p. 240–242, 829 words, 0 images
+- [Case 37 Jumpy legs](chapters/37-case-37-jumpy-legs.md) — PDF p. 244–248, 1390 words, 0 images
+- [Case 38 Episodic weak legs in a sleepy man](chapters/38-case-38-episodic-weak-legs-in-a-sleepy-man.md) — PDF p. 250–256, 1569 words, 0 images
+- [Case 39 Just sleepy all the time](chapters/39-case-39-just-sleepy-all-the-time.md) — PDF p. 258–260, 764 words, 0 images
+- [Case 40 Moving and thrashing around during sleep](chapters/40-case-40-moving-and-thrashing-around-during-sleep.md) — PDF p. 262–267, 1111 words, 0 images
+- [Case 41 Panic attacks during sleep](chapters/41-case-41-panic-attacks-during-sleep.md) — PDF p. 268–271, 777 words, 1 images
+- [Case 42 Frozen in sleep](chapters/42-case-42-frozen-in-sleep.md) — PDF p. 272–273, 468 words, 0 images
+- [Case 43 Confused, irritable and sleepy young man](chapters/43-case-43-confused-irritable-and-sleepy-young-man.md) — PDF p. 274–276, 585 words, 0 images
+- [Case 44 Chattering teeth during sleep](chapters/44-case-44-chattering-teeth-during-sleep.md) — PDF p. 278–279, 437 words, 0 images
+- [Case 45 Sexsomnia](chapters/45-case-45-sexsomnia.md) — PDF p. 280–282, 548 words, 0 images
+- [Case 46 I keep falling asleep at family dinners](chapters/46-case-46-i-keep-falling-asleep-at-family-dinners.md) — PDF p. 284–289, 1659 words, 0 images
+- [Case 47 I have not slept in years](chapters/47-case-47-i-have-not-slept-in-years.md) — PDF p. 290–296, 2528 words, 0 images
+- [Case 48 Spending too long in bed](chapters/48-case-48-spending-too-long-in-bed.md) — PDF p. 298–308, 2668 words, 0 images
+- [Case 49 A sleep cycle that keeps moving](chapters/49-case-49-a-sleep-cycle-that-keeps-moving.md) — PDF p. 310–316, 1615 words, 1 images
+- [Case 50 My body is in London but my body clock is in New York](chapters/50-case-50-my-body-is-in-london-but-my-body-clock-is-in-ne.md) — PDF p. 318–324, 1825 words, 0 images
+- [Case 51 A very, very long day](chapters/51-case-51-a-very-very-long-day.md) — PDF p. 326–332, 1787 words, 0 images
+- [Case 52 Sleep and alcohol abuse](chapters/52-case-52-sleep-and-alcohol-abuse.md) — PDF p. 334–341, 2403 words, 0 images
+- [Case 53 Choosing and using hypnotics](chapters/53-case-53-choosing-and-using-hypnotics.md) — PDF p. 342–350, 2266 words, 0 images
+- [Case 54 Please see this patient who is addicted to sleeping pills](chapters/54-case-54-please-see-this-patient-who-is-addicted-to-slee.md) — PDF p. 352–359, 1950 words, 0 images
+- [Case 55 My body clock cannot keep up](chapters/55-case-55-my-body-clock-cannot-keep-up.md) — PDF p. 360–367, 2255 words, 0 images
+- [Lists of Cases (diagnosis, features, mechanisms)](chapters/56-lists-of-cases-diagnosis-features-mechanisms.md) — PDF p. 368–378, 1261 words, 0 images

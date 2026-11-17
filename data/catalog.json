@@ -1,0 +1,2333 @@
+{
+  "generated": "2026-11-17",
+  "root": ".",
+  "totals": {
+    "books": 5,
+    "chapters": 133,
+    "words": 597625,
+    "images": 1202,
+    "rendered_pages": 731
+  },
+  "books": [
+    {
+      "slug": "atlas-clinical-sleep-medicine",
+      "title": "Atlas of Clinical Sleep Medicine (2nd Edition)",
+      "book_md": "book.md",
+      "figures_md": "figures.md",
+      "content_jsonl": "content.jsonl",
+      "chapters": [
+        {
+          "number": null,
+          "title": "Front Matter",
+          "part": null,
+          "kind": "front-matter",
+          "file": "chapters/00-front-matter.md",
+          "pdf_pages": [
+            1,
+            18
+          ],
+          "printed_pages": [
+            9,
+            9
+          ],
+          "words": 5862,
+          "images": 3
+        },
+        {
+          "number": 1,
+          "title": "1 Sleep in Art and Literature",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/01-1-sleep-in-art-and-literature.md",
+          "pdf_pages": [
+            19,
+            27
+          ],
+          "printed_pages": [
+            1,
+            9
+          ],
+          "words": 4124,
+          "images": 25
+        },
+        {
+          "number": 2,
+          "title": "2 History of Sleep Medicine and Physiology",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/02-2-history-of-sleep-medicine-and-physiology.md",
+          "pdf_pages": [
+            28,
+            39
+          ],
+          "printed_pages": [
+            2,
+            21
+          ],
+          "words": 3271,
+          "images": 44
+        },
+        {
+          "number": 3,
+          "title": "3 Biology of Sleep",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/03-3-biology-of-sleep.md",
+          "pdf_pages": [
+            40,
+            82
+          ],
+          "printed_pages": [
+            5,
+            64
+          ],
+          "words": 20776,
+          "images": 66
+        },
+        {
+          "number": 4,
+          "title": "4 Normal Sleep",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/04-4-normal-sleep.md",
+          "pdf_pages": [
+            83,
+            115
+          ],
+          "printed_pages": [
+            6,
+            97
+          ],
+          "words": 11242,
+          "images": 52
+        },
+        {
+          "number": 5,
+          "title": "5 Sleep Restriction",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/05-5-sleep-restriction.md",
+          "pdf_pages": [
+            116,
+            122
+          ],
+          "printed_pages": [
+            98,
+            104
+          ],
+          "words": 2953,
+          "images": 1
+        },
+        {
+          "number": 6,
+          "title": "6 Pharmacology",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/06-6-pharmacology.md",
+          "pdf_pages": [
+            123,
+            134
+          ],
+          "printed_pages": [
+            105,
+            116
+          ],
+          "words": 5993,
+          "images": 1
+        },
+        {
+          "number": 7,
+          "title": "7 Dreaming in Normal and Disrupted Sleep",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/07-7-dreaming-in-normal-and-disrupted-sleep.md",
+          "pdf_pages": [
+            135,
+            137
+          ],
+          "printed_pages": [
+            117,
+            119
+          ],
+          "words": 2011,
+          "images": 5
+        },
+        {
+          "number": 8,
+          "title": "8 Impact, Presentation, and Diagnostic Considerations",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/08-8-impact-presentation-and-diagnostic-considerations.md",
+          "pdf_pages": [
+            138,
+            151
+          ],
+          "printed_pages": [
+            120,
+            133
+          ],
+          "words": 7123,
+          "images": 6
+        },
+        {
+          "number": 9,
+          "title": "9 Circadian System Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/09-9-circadian-system-disorders.md",
+          "pdf_pages": [
+            152,
+            165
+          ],
+          "printed_pages": [
+            134,
+            147
+          ],
+          "words": 8315,
+          "images": 11
+        },
+        {
+          "number": 10,
+          "title": "10 Insomnia",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/10-10-insomnia.md",
+          "pdf_pages": [
+            166,
+            176
+          ],
+          "printed_pages": [
+            148,
+            158
+          ],
+          "words": 5433,
+          "images": 4
+        },
+        {
+          "number": 11,
+          "title": "11 Neurologic Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/11-11-neurologic-disorders.md",
+          "pdf_pages": [
+            177,
+            254
+          ],
+          "printed_pages": [
+            6,
+            236
+          ],
+          "words": 34476,
+          "images": 77
+        },
+        {
+          "number": 12,
+          "title": "12 Parasomnias",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/12-12-parasomnias.md",
+          "pdf_pages": [
+            255,
+            271
+          ],
+          "printed_pages": [
+            237,
+            253
+          ],
+          "words": 6762,
+          "images": 18
+        },
+        {
+          "number": 13,
+          "title": "13 Sleep Breathing Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/13-13-sleep-breathing-disorders.md",
+          "pdf_pages": [
+            272,
+            333
+          ],
+          "printed_pages": [
+            1,
+            315
+          ],
+          "words": 21928,
+          "images": 163
+        },
+        {
+          "number": 15,
+          "title": "15 Other Medical Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/15-15-other-medical-disorders.md",
+          "pdf_pages": [
+            396,
+            413
+          ],
+          "printed_pages": [
+            30,
+            352
+          ],
+          "words": 8554,
+          "images": 27
+        },
+        {
+          "number": 16,
+          "title": "16 Women’s Health",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/16-16-womens-health.md",
+          "pdf_pages": [
+            414,
+            424
+          ],
+          "printed_pages": [
+            353,
+            363
+          ],
+          "words": 4917,
+          "images": 12
+        },
+        {
+          "number": 17,
+          "title": "17 Sleep and Psychiatric Disease",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/17-17-sleep-and-psychiatric-disease.md",
+          "pdf_pages": [
+            425,
+            430
+          ],
+          "printed_pages": [
+            364,
+            369
+          ],
+          "words": 3525,
+          "images": 0
+        },
+        {
+          "number": 18,
+          "title": "18 Diagnostic Assessment Methods in Adults",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/18-18-diagnostic-assessment-methods-in-adults.md",
+          "pdf_pages": [
+            431,
+            455
+          ],
+          "printed_pages": [
+            370,
+            394
+          ],
+          "words": 12682,
+          "images": 20
+        },
+        {
+          "number": 19,
+          "title": "19 Gallery of Polysomnographic Recordings",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/19-19-gallery-of-polysomnographic-recordings.md",
+          "pdf_pages": [
+            456,
+            538
+          ],
+          "printed_pages": [
+            1,
+            477
+          ],
+          "words": 21264,
+          "images": 127
+        },
+        {
+          "number": 20,
+          "title": "20 Gallery of Patient Interview Videos",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/20-20-gallery-of-patient-interview-videos.md",
+          "pdf_pages": [
+            539,
+            543
+          ],
+          "printed_pages": [
+            478,
+            482
+          ],
+          "words": 745,
+          "images": 21
+        },
+        {
+          "number": 21,
+          "title": "21 Gallery of Sleep Laboratory Video Findings",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/21-21-gallery-of-sleep-laboratory-video-findings.md",
+          "pdf_pages": [
+            544,
+            556
+          ],
+          "printed_pages": [
+            483,
+            495
+          ],
+          "words": 1922,
+          "images": 43
+        }
+      ],
+      "chapter_count": 21,
+      "word_count": 193878,
+      "images": 726,
+      "rendered_pages": 374
+    },
+    {
+      "slug": "atlas-sleep-medicine",
+      "title": "Atlas of Sleep Medicine",
+      "book_md": "book.md",
+      "figures_md": "figures.md",
+      "content_jsonl": "content.jsonl",
+      "chapters": [
+        {
+          "number": null,
+          "title": "Front Matter",
+          "part": null,
+          "kind": "front-matter",
+          "file": "chapters/00-front-matter.md",
+          "pdf_pages": [
+            1,
+            13
+          ],
+          "printed_pages": null,
+          "words": 1473,
+          "images": 5
+        },
+        {
+          "number": 1,
+          "title": "Chapter 1 A History of Sleep and Sleep Medicine",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/01-chapter-1-a-history-of-sleep-and-sleep-medicine.md",
+          "pdf_pages": [
+            14,
+            25
+          ],
+          "printed_pages": [
+            1,
+            12
+          ],
+          "words": 8277,
+          "images": 13
+        },
+        {
+          "number": 2,
+          "title": "Chapter 2 Cross-Cultural Aspects of Sleep",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/02-chapter-2-cross-cultural-aspects-of-sleep.md",
+          "pdf_pages": [
+            26,
+            37
+          ],
+          "printed_pages": [
+            2,
+            24
+          ],
+          "words": 6597,
+          "images": 19
+        },
+        {
+          "number": 3,
+          "title": "Chapter 3 Animals and Sleep",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/03-chapter-3-animals-and-sleep.md",
+          "pdf_pages": [
+            38,
+            42
+          ],
+          "printed_pages": [
+            3,
+            29
+          ],
+          "words": 3295,
+          "images": 6
+        },
+        {
+          "number": 4,
+          "title": "Chapter 4 The Physiology of Sleep",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/04-chapter-4-the-physiology-of-sleep.md",
+          "pdf_pages": [
+            43,
+            55
+          ],
+          "printed_pages": [
+            4,
+            42
+          ],
+          "words": 5318,
+          "images": 36
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5 Diagnostic Tools in Sleep Medicine",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/05-chapter-5-diagnostic-tools-in-sleep-medicine.md",
+          "pdf_pages": [
+            56,
+            67
+          ],
+          "printed_pages": [
+            5,
+            54
+          ],
+          "words": 4697,
+          "images": 17
+        },
+        {
+          "number": 6,
+          "title": "Chapter 6 Sleep-Related Breathing Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/06-chapter-6-sleep-related-breathing-disorders.md",
+          "pdf_pages": [
+            68,
+            100
+          ],
+          "printed_pages": [
+            6,
+            87
+          ],
+          "words": 14631,
+          "images": 44
+        },
+        {
+          "number": 7,
+          "title": "Chapter 7 Narcolepsy",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/07-chapter-7-narcolepsy.md",
+          "pdf_pages": [
+            101,
+            112
+          ],
+          "printed_pages": [
+            7,
+            99
+          ],
+          "words": 5410,
+          "images": 21
+        },
+        {
+          "number": 8,
+          "title": "Chapter 8 Insomnia",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/08-chapter-8-insomnia.md",
+          "pdf_pages": [
+            113,
+            129
+          ],
+          "printed_pages": [
+            8,
+            116
+          ],
+          "words": 7226,
+          "images": 26
+        },
+        {
+          "number": 9,
+          "title": "Chapter 9 Movement Disorders and Parasomnias",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/09-chapter-9-movement-disorders-and-parasomnias.md",
+          "pdf_pages": [
+            130,
+            143
+          ],
+          "printed_pages": [
+            9,
+            130
+          ],
+          "words": 6410,
+          "images": 21
+        },
+        {
+          "number": 10,
+          "title": "Chapter 10 Circadian Rhythm Sleep Disorders: Physiology of the Circadian Clock",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/10-chapter-10-circadian-rhythm-sleep-disorders-physiology.md",
+          "pdf_pages": [
+            144,
+            157
+          ],
+          "printed_pages": [
+            10,
+            144
+          ],
+          "words": 9318,
+          "images": 12
+        }
+      ],
+      "chapter_count": 11,
+      "word_count": 72652,
+      "images": 220,
+      "rendered_pages": 113
+    },
+    {
+      "slug": "krygers-sleep-medicine-review",
+      "title": "Kryger's Sleep Medicine Review: A Problem-Oriented Approach",
+      "book_md": "book.md",
+      "figures_md": "figures.md",
+      "content_jsonl": "content.jsonl",
+      "chapters": [
+        {
+          "number": null,
+          "title": "Front Matter",
+          "part": null,
+          "kind": "front-matter",
+          "file": "chapters/00-front-matter.md",
+          "pdf_pages": [
+            1,
+            39
+          ],
+          "printed_pages": [
+            2,
+            39
+          ],
+          "words": 7719,
+          "images": 3
+        },
+        {
+          "number": null,
+          "title": "Section 1 Normal Sleep and Its Variants",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/01-section-1-normal-sleep-and-its-variants.md",
+          "pdf_pages": [
+            40,
+            231
+          ],
+          "printed_pages": [
+            40,
+            231
+          ],
+          "words": 30627,
+          "images": 69
+        },
+        {
+          "number": null,
+          "title": "Section 2 Sleep-Wake Timing",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/02-section-2-sleep-wake-timing.md",
+          "pdf_pages": [
+            232,
+            290
+          ],
+          "printed_pages": [
+            232,
+            290
+          ],
+          "words": 11084,
+          "images": 9
+        },
+        {
+          "number": null,
+          "title": "Section 3 Insomnia",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/03-section-3-insomnia.md",
+          "pdf_pages": [
+            291,
+            409
+          ],
+          "printed_pages": [
+            291,
+            409
+          ],
+          "words": 23087,
+          "images": 5
+        },
+        {
+          "number": null,
+          "title": "Section 4 Hypersomnolence",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/04-section-4-hypersomnolence.md",
+          "pdf_pages": [
+            410,
+            505
+          ],
+          "printed_pages": [
+            410,
+            505
+          ],
+          "words": 18671,
+          "images": 13
+        },
+        {
+          "number": null,
+          "title": "Section 5 Parasomnias",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/05-section-5-parasomnias.md",
+          "pdf_pages": [
+            506,
+            565
+          ],
+          "printed_pages": [
+            506,
+            565
+          ],
+          "words": 9702,
+          "images": 12
+        },
+        {
+          "number": null,
+          "title": "Section 6 Movement Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/06-section-6-movement-disorders.md",
+          "pdf_pages": [
+            566,
+            650
+          ],
+          "printed_pages": [
+            566,
+            650
+          ],
+          "words": 14668,
+          "images": 14
+        },
+        {
+          "number": null,
+          "title": "Section 7 Breathing Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/07-section-7-breathing-disorders.md",
+          "pdf_pages": [
+            651,
+            860
+          ],
+          "printed_pages": [
+            651,
+            860
+          ],
+          "words": 36034,
+          "images": 54
+        },
+        {
+          "number": null,
+          "title": "Section 8 Sleep in Other Disorders",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/08-section-8-sleep-in-other-disorders.md",
+          "pdf_pages": [
+            861,
+            947
+          ],
+          "printed_pages": [
+            861,
+            947
+          ],
+          "words": 12739,
+          "images": 4
+        },
+        {
+          "number": null,
+          "title": "Section 9 Gone but Not Forgotten",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/09-section-9-gone-but-not-forgotten.md",
+          "pdf_pages": [
+            948,
+            959
+          ],
+          "printed_pages": [
+            948,
+            959
+          ],
+          "words": 1737,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Appendix 1 Highly Recommended Lists by Section",
+          "part": null,
+          "kind": "appendix",
+          "file": "chapters/10-appendix-1-highly-recommended-lists-by-section.md",
+          "pdf_pages": [
+            960,
+            962
+          ],
+          "printed_pages": [
+            960,
+            962
+          ],
+          "words": 417,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Appendix 2 Topics Index",
+          "part": null,
+          "kind": "appendix",
+          "file": "chapters/11-appendix-2-topics-index.md",
+          "pdf_pages": [
+            963,
+            971
+          ],
+          "printed_pages": [
+            963,
+            971
+          ],
+          "words": 903,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Appendix 3 Knowledge Base for Sleep Medicine Practitioners in Europe",
+          "part": null,
+          "kind": "appendix",
+          "file": "chapters/12-appendix-3-knowledge-base-for-sleep-medicine-practition.md",
+          "pdf_pages": [
+            972,
+            1004
+          ],
+          "printed_pages": [
+            972,
+            1004
+          ],
+          "words": 3682,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Appendix 4 Knowledge Base for Sleep Medicine Practitioners in Japan",
+          "part": null,
+          "kind": "appendix",
+          "file": "chapters/13-appendix-4-knowledge-base-for-sleep-medicine-practition.md",
+          "pdf_pages": [
+            1005,
+            1019
+          ],
+          "printed_pages": [
+            1005,
+            1019
+          ],
+          "words": 1773,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Appendix 5 International Sleep Medicine Board Certification Examinations",
+          "part": null,
+          "kind": "appendix",
+          "file": "chapters/14-appendix-5-international-sleep-medicine-board-certifica.md",
+          "pdf_pages": [
+            1020,
+            1021
+          ],
+          "printed_pages": [
+            1020,
+            1021
+          ],
+          "words": 316,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Appendix 6 Knowledge Base for Dental Sleep Medicine Practitioners",
+          "part": null,
+          "kind": "appendix",
+          "file": "chapters/15-appendix-6-knowledge-base-for-dental-sleep-medicine-pra.md",
+          "pdf_pages": [
+            1022,
+            1034
+          ],
+          "printed_pages": [
+            1022,
+            1034
+          ],
+          "words": 1924,
+          "images": 0
+        }
+      ],
+      "chapter_count": 16,
+      "word_count": 175083,
+      "images": 183,
+      "rendered_pages": 156
+    },
+    {
+      "slug": "making-sense-of-sleep-medicine",
+      "title": "Making Sense of Sleep Medicine; A Hands-On Guide",
+      "book_md": "book.md",
+      "figures_md": "figures.md",
+      "content_jsonl": "content.jsonl",
+      "chapters": [
+        {
+          "number": null,
+          "title": "Front Matter",
+          "part": null,
+          "kind": "front-matter",
+          "file": "chapters/00-front-matter.md",
+          "pdf_pages": [
+            1,
+            17
+          ],
+          "printed_pages": [
+            12,
+            12
+          ],
+          "words": 2775,
+          "images": 4
+        },
+        {
+          "number": 1,
+          "title": "1 Basic Physiology of Sleep",
+          "part": "Part 1 Basics First",
+          "kind": "chapter",
+          "file": "chapters/01-1-basic-physiology-of-sleep.md",
+          "pdf_pages": [
+            18,
+            22
+          ],
+          "printed_pages": [
+            4,
+            10
+          ],
+          "words": 2738,
+          "images": 0
+        },
+        {
+          "number": 2,
+          "title": "2 Physiology of Circadian Rhythm",
+          "part": "Part 1 Basics First",
+          "kind": "chapter",
+          "file": "chapters/02-2-physiology-of-circadian-rhythm.md",
+          "pdf_pages": [
+            24,
+            28
+          ],
+          "printed_pages": [
+            10,
+            13
+          ],
+          "words": 2525,
+          "images": 0
+        },
+        {
+          "number": 3,
+          "title": "3 Physiological Changes during Sleep",
+          "part": "Part 1 Basics First",
+          "kind": "chapter",
+          "file": "chapters/03-3-physiological-changes-during-sleep.md",
+          "pdf_pages": [
+            30,
+            34
+          ],
+          "printed_pages": [
+            10,
+            19
+          ],
+          "words": 2465,
+          "images": 0
+        },
+        {
+          "number": 4,
+          "title": "4 Respiratory Physiology: Simple Science of CPAP and PAP Devices Explained",
+          "part": "Part 1 Basics First",
+          "kind": "chapter",
+          "file": "chapters/04-4-respiratory-physiology-simple-science-of-cpap-and-pap.md",
+          "pdf_pages": [
+            36,
+            43
+          ],
+          "printed_pages": [
+            10,
+            28
+          ],
+          "words": 3459,
+          "images": 0
+        },
+        {
+          "number": 5,
+          "title": "5 Drugs That Affect Sleep",
+          "part": "Part 1 Basics First",
+          "kind": "chapter",
+          "file": "chapters/05-5-drugs-that-affect-sleep.md",
+          "pdf_pages": [
+            44,
+            52
+          ],
+          "printed_pages": [
+            2,
+            36
+          ],
+          "words": 2987,
+          "images": 10
+        },
+        {
+          "number": 6,
+          "title": "6 Does the Patient Go to Bed on Time at Night and Can’t Sleep?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/06-6-does-the-patient-go-to-bed-on-time-at-night-and-cant.md",
+          "pdf_pages": [
+            54,
+            59
+          ],
+          "printed_pages": [
+            10,
+            44
+          ],
+          "words": 2924,
+          "images": 0
+        },
+        {
+          "number": 7,
+          "title": "7 Does the Patient Snore? Does the Patient Stop Breathing at Times during Sleep?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/07-7-does-the-patient-snore-does-the-patient-stop-breathin.md",
+          "pdf_pages": [
+            60,
+            64
+          ],
+          "printed_pages": [
+            10,
+            49
+          ],
+          "words": 2531,
+          "images": 0
+        },
+        {
+          "number": 8,
+          "title": "8 Does the Patient Have Excessive Daytime Sleepiness?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/08-8-does-the-patient-have-excessive-daytime-sleepiness.md",
+          "pdf_pages": [
+            66,
+            72
+          ],
+          "printed_pages": [
+            10,
+            57
+          ],
+          "words": 3442,
+          "images": 0
+        },
+        {
+          "number": 9,
+          "title": "9 Does the Patient Have Abnormal Movements at Night?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/09-9-does-the-patient-have-abnormal-movements-at-night.md",
+          "pdf_pages": [
+            74,
+            79
+          ],
+          "printed_pages": [
+            10,
+            64
+          ],
+          "words": 2761,
+          "images": 0
+        },
+        {
+          "number": 10,
+          "title": "10 Does the Patient have Pain, Headaches, High Blood Pressure, Diabetes, Stroke, Ventilation or Cardiac Disorders, or Other Problems?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/10-10-does-the-patient-have-pain-headaches-high-blood-pres.md",
+          "pdf_pages": [
+            80,
+            84
+          ],
+          "printed_pages": [
+            10,
+            69
+          ],
+          "words": 2746,
+          "images": 0
+        },
+        {
+          "number": 11,
+          "title": "11 Is There a Complaint of Depression, Anxiety, Stress, etc.?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/11-11-is-there-a-complaint-of-depression-anxiety-stress-et.md",
+          "pdf_pages": [
+            86,
+            88
+          ],
+          "printed_pages": [
+            10,
+            73
+          ],
+          "words": 1525,
+          "images": 0
+        },
+        {
+          "number": 12,
+          "title": "12 Is the Patient a Child? Is the Patient Pregnant? Other Special Cases",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/12-12-is-the-patient-a-child-is-the-patient-pregnant-other.md",
+          "pdf_pages": [
+            90,
+            95
+          ],
+          "printed_pages": [
+            10,
+            80
+          ],
+          "words": 3011,
+          "images": 0
+        },
+        {
+          "number": 13,
+          "title": "13 Is the Patient Not Sleeping on Time?",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/13-13-is-the-patient-not-sleeping-on-time.md",
+          "pdf_pages": [
+            96,
+            102
+          ],
+          "printed_pages": [
+            10,
+            87
+          ],
+          "words": 4243,
+          "images": 0
+        },
+        {
+          "number": 14,
+          "title": "14 Broad Approach to Common Case Scenarios with Complaints of Sleep",
+          "part": "Part 2 What Does One Do If the Patient Complains of Sleep Problems?",
+          "kind": "chapter",
+          "file": "chapters/14-14-broad-approach-to-common-case-scenarios-with-complai.md",
+          "pdf_pages": [
+            104,
+            110
+          ],
+          "printed_pages": [
+            10,
+            94
+          ],
+          "words": 3420,
+          "images": 0
+        },
+        {
+          "number": 15,
+          "title": "15 Basic Structure of Sleep Interview",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/15-15-basic-structure-of-sleep-interview.md",
+          "pdf_pages": [
+            112,
+            118
+          ],
+          "printed_pages": [
+            10,
+            103
+          ],
+          "words": 2966,
+          "images": 0
+        },
+        {
+          "number": 16,
+          "title": "16 Questionnaires",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/16-16-questionnaires.md",
+          "pdf_pages": [
+            120,
+            123
+          ],
+          "printed_pages": [
+            10,
+            108
+          ],
+          "words": 1644,
+          "images": 0
+        },
+        {
+          "number": 17,
+          "title": "17 Use of a Sleep Diary",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/17-17-use-of-a-sleep-diary.md",
+          "pdf_pages": [
+            124,
+            135
+          ],
+          "printed_pages": [
+            10,
+            120
+          ],
+          "words": 3201,
+          "images": 14
+        },
+        {
+          "number": 18,
+          "title": "18 Actigraphy: Indications, Procedural Do’s and Don’ts, Sample Report",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/18-18-actigraphy-indications-procedural-dos-and-donts-samp.md",
+          "pdf_pages": [
+            136,
+            141
+          ],
+          "printed_pages": [
+            10,
+            126
+          ],
+          "words": 2880,
+          "images": 0
+        },
+        {
+          "number": 19,
+          "title": "19 Home Sleep Apnea Testing",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/19-19-home-sleep-apnea-testing.md",
+          "pdf_pages": [
+            142,
+            146
+          ],
+          "printed_pages": [
+            10,
+            131
+          ],
+          "words": 1795,
+          "images": 3
+        },
+        {
+          "number": 20,
+          "title": "20 Polysomnography I: Detail with Indications, Hookup Procedure, Do’s and Don’ts",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/20-20-polysomnography-i-detail-with-indications-hookup-pro.md",
+          "pdf_pages": [
+            148,
+            155
+          ],
+          "printed_pages": [
+            10,
+            140
+          ],
+          "words": 4824,
+          "images": 0
+        },
+        {
+          "number": 21,
+          "title": "21 Polysomnography II: Sample Reports with Explanation of Various Terminologies",
+          "part": "Part 3 How Do I Investigate the Patient? (Assessment and Monitoring)",
+          "kind": "chapter",
+          "file": "chapters/21-21-polysomnography-ii-sample-reports-with-explanation-o.md",
+          "pdf_pages": [
+            156,
+            162
+          ],
+          "printed_pages": [
+            10,
+            145
+          ],
+          "words": 2666,
+          "images": 1
+        },
+        {
+          "number": 22,
+          "title": "22 Sleep Hygiene Principles and Nonpharmacological Interventions including Light Therapy",
+          "part": "Part 4 What Should i do Now? (Management)",
+          "kind": "chapter",
+          "file": "chapters/22-22-sleep-hygiene-principles-and-nonpharmacological-inte.md",
+          "pdf_pages": [
+            164,
+            169
+          ],
+          "printed_pages": [
+            10,
+            154
+          ],
+          "words": 3171,
+          "images": 0
+        },
+        {
+          "number": 23,
+          "title": "23 Identifying the Need for Counselling",
+          "part": "Part 4 What Should i do Now? (Management)",
+          "kind": "chapter",
+          "file": "chapters/23-23-identifying-the-need-for-counselling.md",
+          "pdf_pages": [
+            170,
+            173
+          ],
+          "printed_pages": [
+            3,
+            158
+          ],
+          "words": 2360,
+          "images": 0
+        },
+        {
+          "number": 24,
+          "title": "24 Pharmacological Agents Used in Various Sleep Disorders",
+          "part": "Part 4 What Should i do Now? (Management)",
+          "kind": "chapter",
+          "file": "chapters/24-24-pharmacological-agents-used-in-various-sleep-disorde.md",
+          "pdf_pages": [
+            174,
+            179
+          ],
+          "printed_pages": [
+            10,
+            164
+          ],
+          "words": 3051,
+          "images": 0
+        },
+        {
+          "number": 25,
+          "title": "25 Simple Positional Devices, Dental Appliances",
+          "part": "Part 4 What Should i do Now? (Management)",
+          "kind": "chapter",
+          "file": "chapters/25-25-simple-positional-devices-dental-appliances.md",
+          "pdf_pages": [
+            180,
+            184
+          ],
+          "printed_pages": [
+            10,
+            169
+          ],
+          "words": 2544,
+          "images": 0
+        },
+        {
+          "number": 26,
+          "title": "26 Titration Protocols, Continuous Positive Airway Pressure (CPAP), and Other PAP Devices",
+          "part": "Part 4 What Should i do Now? (Management)",
+          "kind": "chapter",
+          "file": "chapters/26-26-titration-protocols-continuous-positive-airway-press.md",
+          "pdf_pages": [
+            186,
+            192
+          ],
+          "printed_pages": [
+            10,
+            175
+          ],
+          "words": 2598,
+          "images": 1
+        },
+        {
+          "number": 27,
+          "title": "27 Chapter-Based Assessment",
+          "part": "Part 5 Self-Assessment",
+          "kind": "chapter",
+          "file": "chapters/27-27-chapter-based-assessment.md",
+          "pdf_pages": [
+            194,
+            200
+          ],
+          "printed_pages": [
+            10,
+            185
+          ],
+          "words": 3782,
+          "images": 0
+        }
+      ],
+      "chapter_count": 28,
+      "word_count": 81034,
+      "images": 31,
+      "rendered_pages": 26
+    },
+    {
+      "slug": "oxford-case-histories-sleep-medicine",
+      "title": "Oxford Case Histories in Sleep Medicine",
+      "book_md": "book.md",
+      "figures_md": "figures.md",
+      "content_jsonl": "content.jsonl",
+      "chapters": [
+        {
+          "number": null,
+          "title": "Front Matter",
+          "part": null,
+          "kind": "front-matter",
+          "file": "chapters/00-front-matter.md",
+          "pdf_pages": [
+            1,
+            15
+          ],
+          "printed_pages": null,
+          "words": 1537,
+          "images": 1
+        },
+        {
+          "number": 1,
+          "title": "Case 1 Snoring and witnessed apnoea in a 70-year-old thin man",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/01-case-1-snoring-and-witnessed-apnoea-in-a-70-year-old-th.md",
+          "pdf_pages": [
+            16,
+            25
+          ],
+          "printed_pages": [
+            1,
+            12
+          ],
+          "words": 2503,
+          "images": 2
+        },
+        {
+          "number": 2,
+          "title": "Case 2 An obese post-menopausal woman snored like a tank",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/02-case-2-an-obese-post-menopausal-woman-snored-like-a-tan.md",
+          "pdf_pages": [
+            26,
+            31
+          ],
+          "printed_pages": [
+            2,
+            18
+          ],
+          "words": 1173,
+          "images": 0
+        },
+        {
+          "number": 3,
+          "title": "Case 3 Severe OSA in an overweight Chinese man—craniofacial features",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/03-case-3-severe-osa-in-an-overweight-chinese-mancraniofac.md",
+          "pdf_pages": [
+            32,
+            37
+          ],
+          "printed_pages": [
+            3,
+            24
+          ],
+          "words": 1264,
+          "images": 1
+        },
+        {
+          "number": 4,
+          "title": "Case 4 Unable to throw a cricket ball and could not breathe at night",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/04-case-4-unable-to-throw-a-cricket-ball-and-could-not-bre.md",
+          "pdf_pages": [
+            38,
+            44
+          ],
+          "printed_pages": [
+            4,
+            30
+          ],
+          "words": 1593,
+          "images": 0
+        },
+        {
+          "number": 5,
+          "title": "Case 5 A sleepy bus driver",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/05-case-5-a-sleepy-bus-driver.md",
+          "pdf_pages": [
+            46,
+            52
+          ],
+          "printed_pages": [
+            5,
+            38
+          ],
+          "words": 1500,
+          "images": 2
+        },
+        {
+          "number": 6,
+          "title": "Case 6 Rapid onset daytime sleep presenting as transient loss of consciousness",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/06-case-6-rapid-onset-daytime-sleep-presenting-as-transien.md",
+          "pdf_pages": [
+            54,
+            59
+          ],
+          "printed_pages": [
+            6,
+            46
+          ],
+          "words": 1225,
+          "images": 2
+        },
+        {
+          "number": 7,
+          "title": "Case 7 Unexplained breathlessness and pulmonary arterial hypertension in an obese man",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/07-case-7-unexplained-breathlessness-and-pulmonary-arteria.md",
+          "pdf_pages": [
+            60,
+            64
+          ],
+          "printed_pages": [
+            7,
+            50
+          ],
+          "words": 1091,
+          "images": 0
+        },
+        {
+          "number": 8,
+          "title": "Case 8 Post-operative apnoeas and hypoxia due to undiagnosed OSA",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/08-case-8-post-operative-apnoeas-and-hypoxia-due-to-undiag.md",
+          "pdf_pages": [
+            66,
+            71
+          ],
+          "printed_pages": [
+            8,
+            58
+          ],
+          "words": 1250,
+          "images": 0
+        },
+        {
+          "number": 9,
+          "title": "Case 9 Polycythemia got better with CPAP",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/09-case-9-polycythemia-got-better-with-cpap.md",
+          "pdf_pages": [
+            72,
+            78
+          ],
+          "printed_pages": [
+            9,
+            64
+          ],
+          "words": 1487,
+          "images": 2
+        },
+        {
+          "number": 10,
+          "title": "Case 10 Hyperphagia and sleep disorder in Prader-Willi Syndrome",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/10-case-10-hyperphagia-and-sleep-disorder-in-prader-willi.md",
+          "pdf_pages": [
+            80,
+            84
+          ],
+          "printed_pages": [
+            10,
+            70
+          ],
+          "words": 899,
+          "images": 1
+        },
+        {
+          "number": 11,
+          "title": "Case 11 Shot in the head—acquired hypothalamic syndrome",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/11-case-11-shot-in-the-headacquired-hypothalamic-syndrome.md",
+          "pdf_pages": [
+            86,
+            93
+          ],
+          "printed_pages": [
+            11,
+            80
+          ],
+          "words": 1445,
+          "images": 0
+        },
+        {
+          "number": 12,
+          "title": "Case 12 Collapsed in a café: acute respiratory failure",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/12-case-12-collapsed-in-a-cafe-acute-respiratory-failure.md",
+          "pdf_pages": [
+            94,
+            100
+          ],
+          "printed_pages": [
+            12,
+            86
+          ],
+          "words": 1626,
+          "images": 2
+        },
+        {
+          "number": 13,
+          "title": "Case 13 Overlap syndrome—COPD and OSA",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/13-case-13-overlap-syndromecopd-and-osa.md",
+          "pdf_pages": [
+            102,
+            107
+          ],
+          "printed_pages": [
+            13,
+            94
+          ],
+          "words": 1155,
+          "images": 0
+        },
+        {
+          "number": 14,
+          "title": "Case 14 Neuropsychological impairment in a psychoanalyst with post-polio syndrome",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/14-case-14-neuropsychological-impairment-in-a-psychoanalys.md",
+          "pdf_pages": [
+            108,
+            113
+          ],
+          "printed_pages": [
+            14,
+            100
+          ],
+          "words": 1261,
+          "images": 1
+        },
+        {
+          "number": 15,
+          "title": "Case 15 Nocturnal choking in a patient with a goitre and retrosternal extension",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/15-case-15-nocturnal-choking-in-a-patient-with-a-goitre-an.md",
+          "pdf_pages": [
+            114,
+            119
+          ],
+          "printed_pages": [
+            15,
+            106
+          ],
+          "words": 1140,
+          "images": 2
+        },
+        {
+          "number": 16,
+          "title": "Case 16 OSA persists despite removal of a pituitary tumour causing acromegaly",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/16-case-16-osa-persists-despite-removal-of-a-pituitary-tum.md",
+          "pdf_pages": [
+            120,
+            123
+          ],
+          "printed_pages": [
+            16,
+            110
+          ],
+          "words": 733,
+          "images": 1
+        },
+        {
+          "number": 17,
+          "title": "Case 17 CPAP transformed my life",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/17-case-17-cpap-transformed-my-life.md",
+          "pdf_pages": [
+            124,
+            129
+          ],
+          "printed_pages": [
+            17,
+            116
+          ],
+          "words": 1198,
+          "images": 0
+        },
+        {
+          "number": 18,
+          "title": "Case 18 Persistent daytime sleepiness despite CPAP",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/18-case-18-persistent-daytime-sleepiness-despite-cpap.md",
+          "pdf_pages": [
+            130,
+            136
+          ],
+          "printed_pages": [
+            18,
+            122
+          ],
+          "words": 1621,
+          "images": 0
+        },
+        {
+          "number": 19,
+          "title": "Case 19 CPAP intolerance and non-compliance—treatment with MAS",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/19-case-19-cpap-intolerance-and-non-compliancetreatment-wi.md",
+          "pdf_pages": [
+            138,
+            145
+          ],
+          "printed_pages": [
+            19,
+            132
+          ],
+          "words": 1735,
+          "images": 0
+        },
+        {
+          "number": 20,
+          "title": "Case 20 Will not use CPAP—ends up with tracheostomy",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/20-case-20-will-not-use-cpapends-up-with-tracheostomy.md",
+          "pdf_pages": [
+            146,
+            151
+          ],
+          "printed_pages": [
+            20,
+            138
+          ],
+          "words": 1012,
+          "images": 2
+        },
+        {
+          "number": 21,
+          "title": "Case 21 Bariatric surgery cures sleep apnoea",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/21-case-21-bariatric-surgery-cures-sleep-apnoea.md",
+          "pdf_pages": [
+            152,
+            157
+          ],
+          "printed_pages": [
+            21,
+            144
+          ],
+          "words": 1129,
+          "images": 0
+        },
+        {
+          "number": 22,
+          "title": "Case 22 Sleep disturbance and daytime sleepiness persists in a snorer despite CPAP—Periodic Limb Movement Syndrome",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/22-case-22-sleep-disturbance-and-daytime-sleepiness-persis.md",
+          "pdf_pages": [
+            158,
+            162
+          ],
+          "printed_pages": [
+            22,
+            148
+          ],
+          "words": 1151,
+          "images": 3
+        },
+        {
+          "number": 23,
+          "title": "Case 23 Worrying pauses in breath without choking and snoring— Central Sleep Apnoea",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/23-case-23-worrying-pauses-in-breath-without-choking-and-s.md",
+          "pdf_pages": [
+            164,
+            169
+          ],
+          "printed_pages": [
+            23,
+            156
+          ],
+          "words": 1422,
+          "images": 1
+        },
+        {
+          "number": 24,
+          "title": "Case 24 Irresistible daytime sleepiness in a young obese woman",
+          "part": "Section 1 Snoring and sleep-disordered breathing",
+          "kind": "chapter",
+          "file": "chapters/24-case-24-irresistible-daytime-sleepiness-in-a-young-obes.md",
+          "pdf_pages": [
+            170,
+            178
+          ],
+          "printed_pages": [
+            24,
+            162
+          ],
+          "words": 1376,
+          "images": 0
+        },
+        {
+          "number": 25,
+          "title": "Case 25 Contribution of facial skeletal pattern to sleep apnoea",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/25-case-25-contribution-of-facial-skeletal-pattern-to-slee.md",
+          "pdf_pages": [
+            180,
+            186
+          ],
+          "printed_pages": [
+            25,
+            172
+          ],
+          "words": 1327,
+          "images": 4
+        },
+        {
+          "number": 26,
+          "title": "Case 26 MAS therapy for severe OSAHS",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/26-case-26-mas-therapy-for-severe-osahs.md",
+          "pdf_pages": [
+            188,
+            191
+          ],
+          "printed_pages": [
+            26,
+            178
+          ],
+          "words": 923,
+          "images": 1
+        },
+        {
+          "number": 27,
+          "title": "Case 27 Effectiveness, compliance and side effects of MAS therapy",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/27-case-27-effectiveness-compliance-and-side-effects-of-ma.md",
+          "pdf_pages": [
+            192,
+            196
+          ],
+          "printed_pages": [
+            27,
+            182
+          ],
+          "words": 1072,
+          "images": 2
+        },
+        {
+          "number": 28,
+          "title": "Case 28 Allergic rhinitis",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/28-case-28-allergic-rhinitis.md",
+          "pdf_pages": [
+            198,
+            203
+          ],
+          "printed_pages": [
+            28,
+            190
+          ],
+          "words": 1625,
+          "images": 2
+        },
+        {
+          "number": 29,
+          "title": "Case 29 Nasal polyposis",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/29-case-29-nasal-polyposis.md",
+          "pdf_pages": [
+            204,
+            207
+          ],
+          "printed_pages": [
+            29,
+            194
+          ],
+          "words": 773,
+          "images": 2
+        },
+        {
+          "number": 30,
+          "title": "Case 30 Septoplasty",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/30-case-30-septoplasty.md",
+          "pdf_pages": [
+            208,
+            213
+          ],
+          "printed_pages": [
+            30,
+            200
+          ],
+          "words": 971,
+          "images": 1
+        },
+        {
+          "number": 31,
+          "title": "Case 31 Upper airway resistance syndrome",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/31-case-31-upper-airway-resistance-syndrome.md",
+          "pdf_pages": [
+            214,
+            216
+          ],
+          "printed_pages": [
+            31,
+            202
+          ],
+          "words": 666,
+          "images": 0
+        },
+        {
+          "number": 32,
+          "title": "Case 32 Laser Assisted Uvulopalatoplasty (LAUP)/tonsillectomy",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/32-case-32-laser-assisted-uvulopalatoplasty-laup-tonsillec.md",
+          "pdf_pages": [
+            218,
+            223
+          ],
+          "printed_pages": [
+            32,
+            210
+          ],
+          "words": 1039,
+          "images": 2
+        },
+        {
+          "number": 33,
+          "title": "Case 33 Epiglottic trapdoor",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/33-case-33-epiglottic-trapdoor.md",
+          "pdf_pages": [
+            224,
+            226
+          ],
+          "printed_pages": [
+            33,
+            212
+          ],
+          "words": 654,
+          "images": 0
+        },
+        {
+          "number": 34,
+          "title": "Case 34 Tracheostomy",
+          "part": "Section 2 Snoring and OSA: role of dental",
+          "kind": "chapter",
+          "file": "chapters/34-case-34-tracheostomy.md",
+          "pdf_pages": [
+            228,
+            234
+          ],
+          "printed_pages": [
+            34,
+            218
+          ],
+          "words": 1021,
+          "images": 2
+        },
+        {
+          "number": 35,
+          "title": "Case 35 Sleep groaning",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/35-case-35-sleep-groaning.md",
+          "pdf_pages": [
+            236,
+            238
+          ],
+          "printed_pages": [
+            35,
+            224
+          ],
+          "words": 686,
+          "images": 1
+        },
+        {
+          "number": 36,
+          "title": "Case 36 Nocturnal punch and fight",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/36-case-36-nocturnal-punch-and-fight.md",
+          "pdf_pages": [
+            240,
+            242
+          ],
+          "printed_pages": [
+            36,
+            228
+          ],
+          "words": 829,
+          "images": 0
+        },
+        {
+          "number": 37,
+          "title": "Case 37 Jumpy legs",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/37-case-37-jumpy-legs.md",
+          "pdf_pages": [
+            244,
+            248
+          ],
+          "printed_pages": [
+            37,
+            234
+          ],
+          "words": 1390,
+          "images": 0
+        },
+        {
+          "number": 38,
+          "title": "Case 38 Episodic weak legs in a sleepy man",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/38-case-38-episodic-weak-legs-in-a-sleepy-man.md",
+          "pdf_pages": [
+            250,
+            256
+          ],
+          "printed_pages": [
+            38,
+            242
+          ],
+          "words": 1569,
+          "images": 0
+        },
+        {
+          "number": 39,
+          "title": "Case 39 Just sleepy all the time",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/39-case-39-just-sleepy-all-the-time.md",
+          "pdf_pages": [
+            258,
+            260
+          ],
+          "printed_pages": [
+            39,
+            246
+          ],
+          "words": 764,
+          "images": 0
+        },
+        {
+          "number": 40,
+          "title": "Case 40 Moving and thrashing around during sleep",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/40-case-40-moving-and-thrashing-around-during-sleep.md",
+          "pdf_pages": [
+            262,
+            267
+          ],
+          "printed_pages": [
+            40,
+            254
+          ],
+          "words": 1111,
+          "images": 0
+        },
+        {
+          "number": 41,
+          "title": "Case 41 Panic attacks during sleep",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/41-case-41-panic-attacks-during-sleep.md",
+          "pdf_pages": [
+            268,
+            271
+          ],
+          "printed_pages": [
+            41,
+            258
+          ],
+          "words": 777,
+          "images": 1
+        },
+        {
+          "number": 42,
+          "title": "Case 42 Frozen in sleep",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/42-case-42-frozen-in-sleep.md",
+          "pdf_pages": [
+            272,
+            273
+          ],
+          "printed_pages": [
+            260,
+            260
+          ],
+          "words": 468,
+          "images": 0
+        },
+        {
+          "number": 43,
+          "title": "Case 43 Confused, irritable and sleepy young man",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/43-case-43-confused-irritable-and-sleepy-young-man.md",
+          "pdf_pages": [
+            274,
+            276
+          ],
+          "printed_pages": [
+            43,
+            262
+          ],
+          "words": 585,
+          "images": 0
+        },
+        {
+          "number": 44,
+          "title": "Case 44 Chattering teeth during sleep",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/44-case-44-chattering-teeth-during-sleep.md",
+          "pdf_pages": [
+            278,
+            279
+          ],
+          "printed_pages": [
+            266,
+            266
+          ],
+          "words": 437,
+          "images": 0
+        },
+        {
+          "number": 45,
+          "title": "Case 45 Sexsomnia",
+          "part": "Section 3 Neurological sleep disorders",
+          "kind": "chapter",
+          "file": "chapters/45-case-45-sexsomnia.md",
+          "pdf_pages": [
+            280,
+            282
+          ],
+          "printed_pages": [
+            268,
+            268
+          ],
+          "words": 548,
+          "images": 0
+        },
+        {
+          "number": 46,
+          "title": "Case 46 I keep falling asleep at family dinners",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/46-case-46-i-keep-falling-asleep-at-family-dinners.md",
+          "pdf_pages": [
+            284,
+            289
+          ],
+          "printed_pages": [
+            46,
+            276
+          ],
+          "words": 1659,
+          "images": 0
+        },
+        {
+          "number": 47,
+          "title": "Case 47 I have not slept in years",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/47-case-47-i-have-not-slept-in-years.md",
+          "pdf_pages": [
+            290,
+            296
+          ],
+          "printed_pages": [
+            47,
+            282
+          ],
+          "words": 2528,
+          "images": 0
+        },
+        {
+          "number": 48,
+          "title": "Case 48 Spending too long in bed",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/48-case-48-spending-too-long-in-bed.md",
+          "pdf_pages": [
+            298,
+            308
+          ],
+          "printed_pages": [
+            48,
+            294
+          ],
+          "words": 2668,
+          "images": 0
+        },
+        {
+          "number": 49,
+          "title": "Case 49 A sleep cycle that keeps moving",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/49-case-49-a-sleep-cycle-that-keeps-moving.md",
+          "pdf_pages": [
+            310,
+            316
+          ],
+          "printed_pages": [
+            49,
+            302
+          ],
+          "words": 1615,
+          "images": 1
+        },
+        {
+          "number": 50,
+          "title": "Case 50 My body is in London but my body clock is in New York",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/50-case-50-my-body-is-in-london-but-my-body-clock-is-in-ne.md",
+          "pdf_pages": [
+            318,
+            324
+          ],
+          "printed_pages": [
+            50,
+            310
+          ],
+          "words": 1825,
+          "images": 0
+        },
+        {
+          "number": 51,
+          "title": "Case 51 A very, very long day",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/51-case-51-a-very-very-long-day.md",
+          "pdf_pages": [
+            326,
+            332
+          ],
+          "printed_pages": [
+            51,
+            318
+          ],
+          "words": 1787,
+          "images": 0
+        },
+        {
+          "number": 52,
+          "title": "Case 52 Sleep and alcohol abuse",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/52-case-52-sleep-and-alcohol-abuse.md",
+          "pdf_pages": [
+            334,
+            341
+          ],
+          "printed_pages": [
+            52,
+            328
+          ],
+          "words": 2403,
+          "images": 0
+        },
+        {
+          "number": 53,
+          "title": "Case 53 Choosing and using hypnotics",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/53-case-53-choosing-and-using-hypnotics.md",
+          "pdf_pages": [
+            342,
+            350
+          ],
+          "printed_pages": [
+            53,
+            336
+          ],
+          "words": 2266,
+          "images": 0
+        },
+        {
+          "number": 54,
+          "title": "Case 54 Please see this patient who is addicted to sleeping pills",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/54-case-54-please-see-this-patient-who-is-addicted-to-slee.md",
+          "pdf_pages": [
+            352,
+            359
+          ],
+          "printed_pages": [
+            54,
+            346
+          ],
+          "words": 1950,
+          "images": 0
+        },
+        {
+          "number": 55,
+          "title": "Case 55 My body clock cannot keep up",
+          "part": "Section 4 Insomnia and circadian rhythm disorders",
+          "kind": "chapter",
+          "file": "chapters/55-case-55-my-body-clock-cannot-keep-up.md",
+          "pdf_pages": [
+            360,
+            367
+          ],
+          "printed_pages": [
+            55,
+            354
+          ],
+          "words": 2255,
+          "images": 0
+        },
+        {
+          "number": null,
+          "title": "Lists of Cases (diagnosis, features, mechanisms)",
+          "part": null,
+          "kind": "chapter",
+          "file": "chapters/56-lists-of-cases-diagnosis-features-mechanisms.md",
+          "pdf_pages": [
+            368,
+            378
+          ],
+          "printed_pages": [
+            356,
+            365
+          ],
+          "words": 1261,
+          "images": 0
+        }
+      ],
+      "chapter_count": 57,
+      "word_count": 74978,
+      "images": 42,
+      "rendered_pages": 62
+    }
+  ]
+}
