@@ -68,7 +68,7 @@ function AtlasPage() {
           ← Back to home
         </Link>
         <Link
-          to="/quiz"
+          to="/eeg-quiz"
           className="rounded-md border border-border px-3 py-2 font-mono text-xs uppercase tracking-wider text-primary transition hover:bg-primary/10"
         >
           Random EEG quiz →

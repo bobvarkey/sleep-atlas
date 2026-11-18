@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AtlasRouteImport } from './routes/atlas'
+import { Route as EegQuizRouteImport } from './routes/eeg-quiz'
 import { Route as QuizRouteImport } from './routes/quiz'
 
 const IndexRoute = IndexRouteImport.update({
@@ -23,6 +24,11 @@ const AtlasRoute = AtlasRouteImport.update({
   path: '/atlas',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EegQuizRoute = EegQuizRouteImport.update({
+  id: '/eeg-quiz',
+  path: '/eeg-quiz',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const QuizRoute = QuizRouteImport.update({
   id: '/quiz',
   path: '/quiz',
@@ -32,30 +38,34 @@ const QuizRoute = QuizRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/atlas': typeof AtlasRoute
+  '/eeg-quiz': typeof EegQuizRoute
   '/quiz': typeof QuizRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/atlas': typeof AtlasRoute
+  '/eeg-quiz': typeof EegQuizRoute
   '/quiz': typeof QuizRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/atlas': typeof AtlasRoute
+  '/eeg-quiz': typeof EegQuizRoute
   '/quiz': typeof QuizRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/atlas' | '/quiz'
+  fullPaths: '/' | '/atlas' | '/eeg-quiz' | '/quiz'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/atlas' | '/quiz'
-  id: '__root__' | '/' | '/atlas' | '/quiz'
+  to: '/' | '/atlas' | '/eeg-quiz' | '/quiz'
+  id: '__root__' | '/' | '/atlas' | '/eeg-quiz' | '/quiz'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AtlasRoute: typeof AtlasRoute
+  EegQuizRoute: typeof EegQuizRoute
   QuizRoute: typeof QuizRoute
 }
 
@@ -75,6 +85,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AtlasRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/eeg-quiz': {
+      id: '/eeg-quiz'
+      path: '/eeg-quiz'
+      fullPath: '/eeg-quiz'
+      preLoaderRoute: typeof EegQuizRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/quiz': {
       id: '/quiz'
       path: '/quiz'
@@ -88,6 +105,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AtlasRoute: AtlasRoute,
+  EegQuizRoute: EegQuizRoute,
   QuizRoute: QuizRoute,
 }
 export const routeTree = rootRouteImport
